@@ -1,0 +1,266 @@
+City Name : m
+Position X =261
+Position Y =146
+City Name :kmlm
+Position X =228
+Position Y =201
+City Name :Jaipur
+Position X =204
+Position Y =142
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Jodgpdawda
+Position X =105
+Position Y =264
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :vsvs
+Position X =269
+Position Y =168
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :svsv
+Position X =274
+Position Y =245
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :VVV
+Position X =124
+Position Y =227
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :FVVX
+Position X =260
+Position Y =168
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Jaiput
+Position X =193
+Position Y =152
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Jodhpur
+Position X =269
+Position Y =238
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :gss
+Position X =282
+Position Y =179
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :sfsf
+Position X =160
+Position Y =195
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :gdrgtdg
+Position X =321
+Position Y =152
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :jaiput
+Position X =184
+Position Y =238
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :jSjojdf
+Position X =313
+Position Y =204
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :lngsfngef
+Position X =111
+Position Y =241
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :ldbmldmgbg
+Position X =284
+Position Y =305
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Jfsefskf
+Position X =210
+Position Y =261
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :lsefnsf
+Position X =303
+Position Y =233
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :lngldgd
+Position X =92
+Position Y =176
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :;mg;dgme
+Position X =221
+Position Y =179
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :,ng,sg
+Position X =297
+Position Y =204
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :dg;msg
+Position X =217
+Position Y =160
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :./ x.v
+Position X =146
+Position Y =261
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Jaipt
+Position X =230
+Position Y =185
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :,gdf
+Position X =148
+Position Y =207
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :. g.dg
+Position X =280
+Position Y =321
+<--------------END OF DETAIL FOR CITY------------------->
+City Name : gd, gfd
+Position X =210
+Position Y =246
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :. gd.f
+Position X =319
+Position Y =211
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :gsgfs
+Position X =286
+Position Y =185
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :ssef
+Position X =202
+Position Y =193
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :vsfs
+Position X =254
+Position Y =273
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :gdr.ges
+Position X =317
+Position Y =170
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :;gmd;g
+Position X =175
+Position Y =246
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :d g.drg
+Position X =288
+Position Y =239
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :KBKBNJK
+Position X =247
+Position Y =230
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :dlmgdrlgd
+Position X =95
+Position Y =224
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :,ssfsnsf,nsef
+Position X =222
+Position Y =220
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :;mblmdg
+Position X =121
+Position Y =203
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :mbldgb
+Position X =307
+Position Y =213
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :;mgleg
+Position X =166
+Position Y =288
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :.mb.dmbd
+Position X =287
+Position Y =304
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Jaipur
+Position X =84
+Position Y =219
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Jodhput
+Position X =290
+Position Y =244
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Patna
+Position X =201
+Position Y =181
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Jaipur
+Position X =27
+Position Y =279
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Jodhpur
+Position X =257
+Position Y =248
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Patna
+Position X =155
+Position Y =285
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Kanr
+Position X =118
+Position Y =249
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Nuadandk
+Position X =331
+Position Y =270
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :seffwelnfw
+Position X =246
+Position Y =305
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Jodhpur
+Position X =108
+Position Y =270
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Jaipur
+Position X =266
+Position Y =273
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Mumbai
+Position X =206
+Position Y =307
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :sefsef
+Position X =328
+Position Y =298
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :asd
+Position X =149
+Position Y =269
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :fgh
+Position X =282
+Position Y =268
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :jkl
+Position X =218
+Position Y =327
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Jaipur
+Position X =119
+Position Y =219
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Jipor
+Position X =12
+Position Y =215
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Jaipur
+Position X =53
+Position Y =259
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Jodhpur
+Position X =304
+Position Y =246
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Munbai
+Position X =166
+Position Y =354
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Delhi
+Position X =181
+Position Y =267
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :Sourabh
+Position X =282
+Position Y =281
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :vdvgdf
+Position X =223
+Position Y =263
+<--------------END OF DETAIL FOR CITY------------------->
+City Name :gefwe
+Position X =354
+Position Y =267
+<--------------END OF DETAIL FOR CITY------------------->
